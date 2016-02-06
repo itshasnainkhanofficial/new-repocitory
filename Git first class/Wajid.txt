@@ -1,0 +1,27 @@
+installation of software
+check on the desktop
+check git from the window command prompt.
+window logo+r(search)
+and type git
+ctr+shif+n(new folder)
+git init
+echo "anything which you want to write in document" > file name.extension (.docx/.txt/.ppt/.xls)
+git status
+git add "file name.extension" (only for one file)
+git add . (for all files)
+git add -A (for all files)
+git commit --message "anything which you want to commit that what changing occur in your document"
+git commit -m "anything which you want to commit that what changing occur in your document"
+{if requirement of Email address and user name occur}
+git config --global user.email "Hasnainkhan690@gmail.com"
+git config --global user.name "Hasnain Khan"
+Enter
+{then you may commit, and this requirement occur only first time for first commit}
+git log (to check whether the commit submitted or not)
+changing in file 
+git status
+add 
+git status
+then commit
+git log
+
