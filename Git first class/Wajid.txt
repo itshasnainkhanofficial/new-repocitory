@@ -24,4 +24,6 @@ add
 git status
 then commit
 git log
-
+next class on tuesday 16.02.2016
+git add --help
+git reset HEAD 1.txt
