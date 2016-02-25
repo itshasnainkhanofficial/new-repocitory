@@ -6,3 +6,6 @@ Hasnain's repo
 Zain's repo
 combain repo
 ```
+* a qiuck brown fox jumps over the lazy dog
+* working directory
+*index
